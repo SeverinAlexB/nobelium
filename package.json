@@ -13,7 +13,7 @@
     "url": "http://craigary.net"
   },
   "scripts": {
-    "dev": "next dev",
+    "dev": "NOTION_PAGE_ID=7c6a57c7097c40ca8310afbac9725e7f next dev -p 8080",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
