@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'LnRouter - Lightning network insights',
+  title: 'LnRouter Blog - Lightning network insights',
   author: 'Severin Alex Bühler',
   email: 'support@lnrouter.app',
   link: 'https://blog.lnrouter.app',
