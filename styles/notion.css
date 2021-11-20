@@ -1,7 +1,7 @@
 /* NOTION CSS OVERRIDE */
 
 .notion {
-  @apply text-gray-600 dark:text-gray-300;
+  @apply text-gray-600 dark:text-gray-100;
   overflow-wrap: break-word;
 }
 .notion,
