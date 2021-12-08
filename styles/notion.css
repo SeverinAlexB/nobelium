@@ -32,7 +32,7 @@ svg + .notion-page-title-text {
 
 .notion-bookmark .notion-bookmark-title,
 .notion-bookmark .notion-bookmark-link div {
-  @apply text-gray-900 dark:text-gray-100;
+  @apply text-gray-900 dark:text-gray-200;
 }
 
 .notion-bookmark .notion-bookmark-description {
@@ -84,4 +84,8 @@ pre[class*='language-'] {
 }
 .notion-collection-row {
   @apply hidden;
+}
+
+.notion-link {
+  @apply underline;
 }
