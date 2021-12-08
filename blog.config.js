@@ -5,7 +5,7 @@ const BLOG = {
   link: 'https://blog.lnrouter.app',
   description: 'Lightning network insights',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  appearance: 'auto', // ['light', 'dark', 'auto'],
+  appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#f9fafb', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#292929', // use hex value, don't forget '#'

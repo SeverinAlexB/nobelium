@@ -20,7 +20,20 @@ module.exports = {
         },
         night: {
           DEFAULT: BLOG.darkBackground || '#111827'
-        }
+        },
+        viking: {
+          50: "#f7fdfd",
+          100: "#eefbfb",
+          200: "#d6f5f5",
+          300: "#90e4e4",
+          400: "#75E5E7",
+          500: "#4adddf",
+          600: "#25CFD1",
+          700: "#1DA4A6",
+          800: "#16797A",
+          900: "#0E4E4F",
+          1000: "#082b2b"
+        },
       },
       fontFamily: {
         sans: ['"IBM Plex Sans"', ...fontFamily.sans, ...fontSansCJK],

@@ -1,7 +1,7 @@
 /* NOTION CSS OVERRIDE */
 
 .notion {
-  @apply text-gray-600 dark:text-gray-100;
+  @apply text-gray-900 dark:text-gray-300;
   overflow-wrap: break-word;
 }
 .notion,
@@ -87,5 +87,5 @@ pre[class*='language-'] {
 }
 
 .notion-link {
-  @apply underline;
+  @apply text-viking-800 opacity-90;
 }
